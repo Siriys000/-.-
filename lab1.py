@@ -2,7 +2,7 @@ import string
 import random
 # Для Цезаря
 str_a =list(string.ascii_lowercase)
-shift = 6
+shift = 5
 # Для подстановочного
 str_wildcard=list(string.ascii_lowercase)
 random.shuffle(str_wildcard)
